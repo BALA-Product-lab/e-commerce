@@ -1,7 +1,7 @@
-Function Signup(){
+function Signup(){
 }
 return(
-  <h3>Create Account</h3>
+  <h3>Create Account with details </h3>
 )
 
 export default Signup;
